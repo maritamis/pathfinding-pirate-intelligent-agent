@@ -1,1 +1,1 @@
-# pathfinding-pirate-intelligent-agent
+# Pathfinding intelligent agent 
